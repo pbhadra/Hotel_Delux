@@ -2,4 +2,4 @@
 Hotel Delux PSD to HTML
 
 # URL
-https://pbhadra.github.io/Hotel_Delux/
+https://pbhadra07.github.io/Hotel_Delux/
